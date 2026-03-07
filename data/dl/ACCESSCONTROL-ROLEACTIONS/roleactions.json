@@ -31371,119 +31371,22 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 604,
-      "actioncode": "",
-      "tenantId": "dl"
-    },     
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2938,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2939,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2940,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2941,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2942,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2943,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2944,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2945,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "CITIZEN",
-      "actionid": 2946,
+      "rolecode": "EMPLOYEE",
+      "actionid": 2064,
       "actioncode": "",
       "tenantId": "dl"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2938,
+      "rolecode": "CITIZEN",
+      "actionid": 2064,
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2939,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2940,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2941,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2942,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2943,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2944,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2945,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
-     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 2946,
+    {
+      "rolecode": "VENDOR",
+      "actionid": 2064,
       "actioncode": "",
       "tenantId": "dl"
     }
-
   ]
 }

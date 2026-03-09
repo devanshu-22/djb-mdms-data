@@ -19920,6 +19920,41 @@
           "serviceCode": "ekyc-service",
           "code": "null",
           "path": ""
+    },
+    {
+      "id": 2947,
+      "name": "Save Vendor with Additional Details in Vendor Management",
+      "url": "/vendor-management/api/v1/_create",
+      "displayName": "Save Additional Details",
+      "orderNumber": 0,
+      "parentModule": "vendor-management",
+      "enabled": true,
+      "serviceCode": "vendor-management",
+      "path": ""
+    },
+    {
+      "id": 2948,
+      "name": "Get Vendor With Additional Details in Vendor Management",
+      "url": "/vendor-management/api/v1/_search",
+      "displayName": "Get Vendor Details",
+      "orderNumber": 0,
+      "queryParams": "tenantId=&vendorId=&category=&status=&vendorGroup=&vendorType=&serviceType=&registrationNo=",
+      "parentModule": "vendor-management",
+      "enabled": true,
+      "serviceCode": "vendor-management",
+      "path": ""
+    },
+    {
+      "id": 2949,
+      "name": "Get Vendor With Additional Details in Vendor Management",
+      "url": "/vendor-management/api/v1/vendorPlusAdditional/_search",
+      "displayName": "Get Vendor With Additional Details",
+      "orderNumber": 0,
+      "queryParams": "tenantId=&vendorId=&category=&status=&vendorGroup=&vendorType=&serviceType=&registrationNo=",
+      "parentModule": "vendor-management",
+      "enabled": true,
+      "serviceCode": "vendor-management",
+      "path": ""
     }
   ]
 }

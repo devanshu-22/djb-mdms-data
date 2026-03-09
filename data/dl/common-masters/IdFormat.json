@@ -757,6 +757,10 @@
         {
             "format": "DJB",
             "idname": "idgeneration.djb"
+        },
+		{
+            "format": "DL-DJB-[cy:yyyy-MM-dd]-[SEQ_EGOV_COMMON]",
+            "idname": "djb.vendor.id"
         }
     ]
 }

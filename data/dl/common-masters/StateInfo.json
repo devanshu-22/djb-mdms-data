@@ -124,7 +124,10 @@
         },{
           "label" : "rainmaker-ekyc",
           "value" : "rainmaker-ekyc"
-        }
+        },{
+          "label" : "rainmaker-engagement",
+          "value" : "rainmaker-engagement"
+         }
       ]
     }
   ]

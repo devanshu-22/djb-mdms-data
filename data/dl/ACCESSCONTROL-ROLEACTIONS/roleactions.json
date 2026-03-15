@@ -31717,6 +31717,78 @@
       "actionid": 2413,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2950,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2950,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2950,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2950,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+      {
+      "rolecode": "WT_CEMP",
+      "actionid": 2951,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2951,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2951,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2951,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2952,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2952,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2952,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2952,
+      "actioncode": "",
+      "tenantId": "dl"
+    }   
   ]
 }

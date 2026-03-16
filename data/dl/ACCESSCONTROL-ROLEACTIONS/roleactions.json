@@ -31789,6 +31789,30 @@
       "actionid": 2952,
       "actioncode": "",
       "tenantId": "dl"
-    }   
+    },
+     {
+      "rolecode": "WT_CEMP",
+      "actionid": 2953,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2953,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "COMMON_VENDOR",
+      "actionid": 2953,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2953,
+      "actioncode": "",
+      "tenantId": "dl"
+    }  
   ]
 }

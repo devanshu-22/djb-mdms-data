@@ -31827,13 +31827,13 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "WT_DRIVER",
       "actionid": 2952,
       "actioncode": "",
       "tenantId": "dl"
     },
     {
-      "rolecode": "CITIZEN",
+      "rolecode": "WT_DRIVER",
       "actionid": 2953,
       "actioncode": "",
       "tenantId": "dl"

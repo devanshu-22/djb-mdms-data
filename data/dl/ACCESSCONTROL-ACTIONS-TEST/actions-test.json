@@ -20120,6 +20120,28 @@
       "serviceCode": "request-service",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2965,
+      "name": "work order update vendor",
+      "url": "/vendor-management/api/v1/work-order/_update",
+      "displayName": "work order update vendor",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2966,
+      "name": "work order create vendor",
+      "url": "/vendor-management/api/v1/work-order/_create",
+      "displayName": "work order create vendor",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
+    }  
   ]
 }

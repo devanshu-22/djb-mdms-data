@@ -501,6 +501,11 @@
       "name": "Hospital Administration",
       "code": "161",
       "active": true
+    },
+    {
+      "name": "Delhi - Jal Board",
+      "code": "Dept_01",
+      "active": true
     }
   ]
 }

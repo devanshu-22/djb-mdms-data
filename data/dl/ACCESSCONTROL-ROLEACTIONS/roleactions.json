@@ -32497,7 +32497,19 @@
       "actionid": 2964,
       "actioncode": "",
       "tenantId": "dl"
-     }
+     },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2976,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2976,
+      "actioncode": "",
+      "tenantId": "dl"
+    }
      
   ]
 }

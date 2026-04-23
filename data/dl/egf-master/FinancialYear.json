@@ -869,6 +869,20 @@
 	  "isClosed": false,
 	  "transferClosingBalance": false,
 	  "module": "WS"
+	},
+	{
+	  "id": "47",
+	  "tenantId": "dl",
+	  "finYearRange": "2026-27",
+	  "name": "2026-27",
+	  "code": "2026-27",
+	  "startingDate": 1775174400000,
+  	  "endingDate": 1806710400000,
+	  "active": true,
+	  "isActiveForPosting": true,
+	  "isClosed": false,
+	  "transferClosingBalance": false,
+	  "module": "WS"
 	}
 
   ]

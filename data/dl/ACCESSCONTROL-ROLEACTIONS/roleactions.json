@@ -31748,7 +31748,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-      {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2951,
       "actioncode": "",
@@ -31796,7 +31796,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2953,
       "actioncode": "",
@@ -31886,7 +31886,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2957,
       "actioncode": "",
@@ -31982,7 +31982,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-       {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2961,
       "actioncode": "",
@@ -32006,7 +32006,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-       {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2962,
       "actioncode": "",
@@ -32186,7 +32186,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2969,
       "actioncode": "",
@@ -32288,7 +32288,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2973,
       "actioncode": "",
@@ -32354,7 +32354,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2974,
       "actioncode": "",
@@ -32420,7 +32420,7 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
+    {
       "rolecode": "WT_CEMP",
       "actionid": 2975,
       "actioncode": "",
@@ -32492,12 +32492,12 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-     {
-       "rolecode": "WT_UPDATE",
+    {
+      "rolecode": "WT_UPDATE",
       "actionid": 2964,
       "actioncode": "",
       "tenantId": "dl"
-     },
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2976,
@@ -32549,6 +32549,42 @@
     {
       "rolecode": "WT_VENDOR",
       "actionid": 2066,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2977,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2977,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2978,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2978,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "WT_CEMP",
+      "actionid": 2979,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2979,
       "actioncode": "",
       "tenantId": "dl"
     }

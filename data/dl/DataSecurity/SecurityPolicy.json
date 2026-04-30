@@ -1489,7 +1489,8 @@
           "patternId": null,
           "defaultVisibility": "PLAIN"
         }
-      ]
+      ],
+      "roleBasedDecryptionPolicy": []
     }
   ]
 }

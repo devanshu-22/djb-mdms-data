@@ -32085,6 +32085,12 @@
       "tenantId": "dl"
     },
     {
+      "rolecode": "WT_VENDOR",
+      "actionid": 2937,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
       "rolecode": "WT_DRIVER",
       "actionid": 2937,
       "actioncode": "",
